@@ -1,0 +1,11 @@
+#scripts
+alias f="/Users/h/dotfiles/scripts/f.sh"
+
+# git
+ga='git add'
+gc='git commit'
+gp='git push'
+
+# Shopify
+alias h2="npx shopify hydrogen"
+
