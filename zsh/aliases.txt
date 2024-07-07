@@ -3,7 +3,7 @@ alias f="/Users/h/dotfiles/scripts/f.sh"
 
 # git
 ga='git add'
-gc='git commit -m'
+gc='git commit'
 gps='git push'
 gst='git status'
 gpl='git pull'
