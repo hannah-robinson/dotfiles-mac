@@ -3,8 +3,10 @@ alias f="/Users/h/dotfiles/scripts/f.sh"
 
 # git
 ga='git add'
-gc='git commit'
-gp='git push'
+gc='git commit -m'
+gps='git push'
+gst='git status'
+gpl='git pull'
 
 # Shopify
 alias h2="npx shopify hydrogen"
